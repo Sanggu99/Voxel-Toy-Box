@@ -1,0 +1,5 @@
+{
+  "name": "Voxel Toy Box: World Landmarks",
+  "description": "An interactive 3D voxel experience where famous architectural landmarks like the Eiffel Tower and the Colosseum are built block-by-block and can be dynamically destroyed with physics-simulated crumbling effects.",
+  "requestFramePermissions": []
+}
